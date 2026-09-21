@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+    --font-display: "Barlow", sans-serif;
+    --font-body: "Barlow";
+
+    --color-paper: #f4f2f9;
+    --color-surface: #ffffff;
+    --color-ink: #221b30;
+    --color-ink-soft: #6b6478;
+    --color-line: #ded6ee;
+    --color-accent: #6d4bb3;
+    --color-accent-soft: #ece5f7;
+    --color-danger: #a8447a;
+}
